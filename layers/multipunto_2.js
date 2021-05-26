@@ -1,0 +1,1 @@
+var json_multipunto_2 = {"type":"FeatureCollection","name":"multipunto_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"11"},"geometry":{"type":"MultiPoint","coordinates":[[-100.773932843846694,28.41379130498991]]}}]}
